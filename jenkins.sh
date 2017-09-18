@@ -2,7 +2,7 @@
 
 update_system()
 {
-sudo apt-get update
+    sudo apt-get update
 }
 install_dev_tools()
 {
